@@ -1,0 +1,6 @@
+$ cat .gitignore
+#Ignore all push commands strating with ~
+/*
+!/~
+/~/*
+!/~/
